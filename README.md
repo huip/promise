@@ -1,2 +1,2 @@
 # promise
-Promise使用说明及原理实现
+Promise使用说明及实现原理
